@@ -38,7 +38,7 @@
     "@react-navigation/native": "3.0.3",
     "react-navigation-drawer": "1.0.5",
     "react-navigation-stack": "1.0.6",
-    "react-navigation-tabs": "1.0.2"
+    "react-navigation-tabs": "git://github.com/sagarbhatt4/react-navigation-tabs.git#670c5ed62a39e8507863393c0d7b7c3d4a0ce03a"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
